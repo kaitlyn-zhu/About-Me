@@ -1,0 +1,38 @@
+body {
+    background: radial-gradient(circle, #fac0fa, #b2cbfd, #b0eafd);
+ font-family: "Comic Sans MS", cursive, sans-serif; 
+ margin: 30px;
+ color:black;
+}
+h1 {
+  text-align: center; 
+}
+h3  {
+  text-align: center;
+}
+img:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+#riverdale poster  {
+  border-radius: 30px;
+  float: right;
+}    
+#introduction  {
+  text-indent: 40px;
+}
+figure {
+  float: right;
+  width: 25%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+}
+#header3  {
+  clear: both
+}
+#pyramidsandcamals  {
+  border-radius:15 px;
+  float: right;
+}
